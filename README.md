@@ -1,4 +1,7 @@
 # ImageEditor
+
+forked from https://github.com/CreateChance/ImageEditor. Extract only slideshow feature
+
 Image edit library on android platform, based on opengl es 2.0.
 
 [Demo prebuilt apk (Chineese)](https://github.com/CreateChance/ImageEditor/raw/master/bin/ImageEditorDemoChineese.apk)
