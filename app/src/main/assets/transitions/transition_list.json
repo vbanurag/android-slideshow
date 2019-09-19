@@ -1,0 +1,262 @@
+[
+  {
+    "id": 0,
+    "name": "Window slice"
+  },
+  {
+    "id": 1,
+    "name": "Page turning"
+  },
+  {
+    "id": 2,
+    "name": "angle"
+  },
+  {
+    "id": 3,
+    "name": "bounce"
+  },
+  {
+    "id": 4,
+    "name": "Horizontal bow"
+  },
+  {
+    "id": 5,
+    "name": "Vertical bow"
+  },
+  {
+    "id": 6,
+    "name": "combustion"
+  },
+  {
+    "id": 7,
+    "name": "Butterfly wave"
+  },
+  {
+    "id": 8,
+    "name": "Maple leaf"
+  },
+  {
+    "id": 9,
+    "name": "Ring"
+  },
+  {
+    "id": 10,
+    "name": "Ring cutting"
+  },
+  {
+    "id": 11,
+    "name": "Ring expansion"
+  },
+  {
+    "id": 12,
+    "name": "Hue"
+  },
+  {
+    "id": 13,
+    "name": "Color distance"
+  },
+  {
+    "id": 14,
+    "name": "Crazy parameter"
+  },
+  {
+    "id": 15,
+    "name": "Cross hatching"
+  },
+  {
+    "id": 16,
+    "name": "Cross bending"
+  },
+  {
+    "id": 17,
+    "name": "Cross zoom"
+  },
+  {
+    "id": 18,
+    "name": "Square"
+  },
+  {
+    "id": 19,
+    "name": "direction"
+  },
+  {
+    "id": 20,
+    "name": "Directional bending"
+  },
+  {
+    "id": 21,
+    "name": "Direction erasure"
+  },
+  {
+    "id": 22,
+    "name": "Doomsday screen"
+  },
+  {
+    "id": 23,
+    "name": "Open Door"
+  },
+  {
+    "id": 24,
+    "name": "Illusion"
+  },
+  {
+    "id": 25,
+    "name": "Fantasy zoom"
+  },
+  {
+    "id": 26,
+    "name": "Retired"
+  },
+  {
+    "id": 27,
+    "name": "Color retreat"
+  },
+  {
+    "id": 28,
+    "name": "Grayscale retreat"
+  },
+  {
+    "id": 29,
+    "name": "Fly eye"
+  },
+  {
+    "id": 30,
+    "name": "Burr displacement"
+  },
+  {
+    "id": 31,
+    "name": "Glitch memory"
+  },
+  {
+    "id": 32,
+    "name": "Block flip"
+  },
+  {
+    "id": 33,
+    "name": "Love"
+  },
+  {
+    "id": 34,
+    "name": "hexagon"
+  },
+  {
+    "id": 35,
+    "name": "kaleidoscope"
+  },
+  {
+    "id": 36,
+    "name": "Linear blur"
+  },
+  {
+    "id": 37,
+    "name": "Luminous melt"
+  },
+  {
+    "id": 38,
+    "name": "Deformation"
+  },
+  {
+    "id": 39,
+    "name": "Mosaic"
+  },
+  {
+    "id": 40,
+    "name": "Multiplication"
+  },
+  {
+    "id": 41,
+    "name": "Berlin"
+  },
+  {
+    "id": 42,
+    "name": "Pin wheel"
+  },
+  {
+    "id": 43,
+    "name": "Pixel painting"
+  },
+  {
+    "id": 44,
+    "name": "Polarity function"
+  },
+  {
+    "id": 45,
+    "name": "Dot curtain"
+  },
+  {
+    "id": 46,
+    "name": "Radial"
+  },
+  {
+    "id": 47,
+    "name": "Random square"
+  },
+  {
+    "id": 48,
+    "name": "Water ripple"
+  },
+  {
+    "id": 49,
+    "name": "Rotate, zoom in, retreat"
+  },
+  {
+    "id": 50,
+    "name": "Simple zoom"
+  },
+  {
+    "id": 51,
+    "name": "Square wire"
+  },
+  {
+    "id": 52,
+    "name": "extrusion"
+  },
+  {
+    "id": 53,
+    "name": "Stereo effect"
+  },
+  {
+    "id": 54,
+    "name": "Swap"
+  },
+  {
+    "id": 55,
+    "name": "Rotational deformation"
+  },
+  {
+    "id": 56,
+    "name": "Wave burning"
+  },
+  {
+    "id": 57,
+    "name": "Droplet"
+  },
+  {
+    "id": 58,
+    "name": "breeze"
+  },
+  {
+    "id": 59,
+    "name": "shutter"
+  },
+  {
+    "id": 60,
+    "name": "Erase down"
+  },
+  {
+    "id": 61,
+    "name": "Erase upward"
+  },
+  {
+    "id": 62,
+    "name": "Erase to the left"
+  },
+  {
+    "id": 63,
+    "name": "Erase to the right"
+  },
+  {
+    "id": 64,
+    "name": "Circle enlarge"
+  }
+]

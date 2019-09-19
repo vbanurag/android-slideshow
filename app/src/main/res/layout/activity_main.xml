@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/vw_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_white"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/vw_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+        <TextView
+            android:id="@+id/tv_generate_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginStart="18dp"
+            android:background="@drawable/bg_solid_red"
+            android:paddingStart="10dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="5dp"
+            android:text="Generate video"
+            android:textColor="@color/font_white" />
+
+        <!--<TextView-->
+        <!--android:id="@+id/tv_take_photo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginEnd="18dp"-->
+        <!--android:background="@drawable/bg_solid_red"-->
+        <!--android:paddingStart="10dp"-->
+        <!--android:paddingTop="5dp"-->
+        <!--android:paddingEnd="10dp"-->
+        <!--android:paddingBottom="5dp"-->
+        <!--android:text="@string/main_page_take_photo"-->
+        <!--android:textColor="@color/font_white" />-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/tv_choose_photo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginEnd="18dp"-->
+        <!--android:layout_toStartOf="@id/tv_take_photo"-->
+        <!--android:background="@drawable/bg_solid_red"-->
+        <!--android:paddingStart="10dp"-->
+        <!--android:paddingTop="5dp"-->
+        <!--android:paddingEnd="10dp"-->
+        <!--android:paddingBottom="5dp"-->
+        <!--android:text="@string/main_page_choose_photo"-->
+        <!--android:textColor="@color/font_white" />-->
+
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/pb_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rcv_work_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/vw_title"
+        android:scrollbars="vertical"
+        android:visibility="gone" />
+
+</RelativeLayout>

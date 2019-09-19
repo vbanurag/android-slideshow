@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">ImageEditorDemo</string>
+
+    <string name="main_page_title">List of works</string>
+    <string name="main_page_take_photo">Take a Picture</string>
+    <string name="main_page_choose_photo">Choose Photo</string>
+    <string name="main_page_work_timestamp_format">Time：%1$s</string>
+    <string name="main_page_work_resolution_format">%1$d x %2$d</string>
+    <string name="main_page_work_size">Size：</string>
+    <string name="main_page_work_size_format_byte">%1$d B</string>
+    <string name="main_page_work_size_format_k_byte">%1$.2f KB</string>
+    <string name="main_page_work_size_format_m_byte">%1$.2f MB</string>
+
+    <string name="dialog_warning">Warning</string>
+    <string name="dialog_delete_confirm">Are you sure ？</string>
+    <string name="info_delete_done">successfully deleted</string>
+
+    <string name="image_save_done">Saved!</string>
+    <string name="exit_save_done">Exit editing</string>
+    <string name="continue_save_done">Continue editing</string>
+
+    <string name="please_select_transition">Please select the transition effect</string>
+    <string name="delete_transition">Delete Transistion</string>
+
+    <string name="main_bottom_selection_preview">View</string>
+    <string name="main_bottom_selection_edit">edit</string>
+    <string name="main_bottom_selection_share">share it</string>
+    <string name="main_bottom_selection_delete">Delete</string>
+    <string name="main_bottom_selection_cancel">Cancel</string>
+
+    <string name="goto_work_list">List of works</string>
+    <string name="save_work">Save</string>
+    <string name="histogram_view">Histogram</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="edit_effect">Edit</string>
+    <string name="edit_effect_adjust_value">Adjustment value:</string>
+
+    <string name="edit_adjust">Adjustment</string>
+    <string name="edit_adjust_brightness">Brightness</string>
+    <string name="edit_adjust_exposure">Exposure</string>
+    <string name="edit_adjust_gamma">Gamma</string>
+    <string name="edit_adjust_contrast">Contrast</string>
+    <string name="edit_adjust_saturation">Saturation</string>
+    <string name="edit_adjust_sharpen">Sharpen</string>
+    <string name="edit_adjust_dark_corner">Vignetting</string>
+    <string name="edit_adjust_shadow">Shadow</string>
+    <string name="edit_adjust_highlight">Highlight</string>
+    <string name="edit_adjust_color_temp">Temperature</string>
+    <string name="edit_adjust_tone">Tone</string>
+    <string name="edit_adjust_denoise">Noise reduction</string>
+    <string name="edit_adjust_curve">RGB</string>
+    <string name="edit_adjust_curve_red">Red</string>
+    <string name="edit_adjust_curve_green">Green</string>
+    <string name="edit_adjust_curve_blue">Blue</string>
+    <string name="edit_adjust_color_balance">Color balance</string>
+
+    <string name="edit_cut">Crop</string>
+
+    <string name="edit_transform">Spatial transformation</string>
+    <string name="edit_transform_perspective">Perspective transformation</string>
+    <string name="edit_transform_orthographic">Orthogonal transformation</string>
+    <string name="edit_transform_rotate_left">Rotate Left</string>
+    <string name="edit_transform_rotate_right">Rotate Right</string>
+    <string name="edit_transform_flip_x">Flip X</string>
+    <string name="edit_transform_flip_y">Flip Y</string>
+    <string name="edit_transform_rotate">Rotate</string>
+    <string name="edit_rotate_x">X axis: %1$d degree</string>
+    <string name="edit_rotate_y">Y axis: %1$d degree</string>
+    <string name="edit_rotate_z">Z axis: %1$d degree</string>
+    <string name="edit_transform_translate">Mobile</string>
+    <string name="edit_translate_x">X axis: %1$.2f</string>
+    <string name="edit_translate_y">Y axis: %1$.2f</string>
+    <string name="edit_translate_z">Z axis: %1$.2f</string>
+
+    <string name="edit_text">Text</string>
+    <string name="edit_text_panel_add_dialog_content">please enter text</string>
+    <string name="edit_text_panel_change_transparent">Opacity</string>
+    <string name="edit_text_panel_change_size">size</string>
+    <string name="edit_text_panel_change_color">Color</string>
+    <string name="edit_text_panel_change_color_red">red</string>
+    <string name="edit_text_panel_change_color_green">green</string>
+    <string name="edit_text_panel_change_color_blue">blue</string>
+    <string name="edit_text_panel_change_texture">Texture</string>
+
+    <string name="edit_focus">Focus</string>
+
+    <string name="edit_sticker">Sticker</string>
+    <string name="edit_sticker_asset">Material</string>
+    <string name="edit_sticker_adjust">Adjustment</string>
+    <string name="edit_sticker_alpha">Opacity</string>
+    <string name="edit_sticker_size">Size</string>
+    <string name="edit_sticker_red">red</string>
+    <string name="edit_sticker_green">green</string>
+    <string name="edit_sticker_blue">blue</string>
+    <string name="edit_sticker_rotation">rotation</string>
+
+    <string name="edit_mosaic">Mosaic</string>
+    <string name="edit_mosaic_size">Size</string>
+    <string name="edit_mosaic_strength">Strength</string>
+    <string name="edit_mosaic_brush">Brush</string>
+    <string name="edit_mosaic_erase">Erase</string>
+</resources>
