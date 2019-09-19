@@ -1,4 +1,4 @@
-# ImageEditor
+# Slideshow
 
 forked from https://github.com/CreateChance/ImageEditor. Extract only slideshow feature
 
